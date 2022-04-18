@@ -6,7 +6,7 @@ in 2021 nearly one thousand speakers responded to a [community census](https://t
 
 ### can i see?
 
-![tokiembed](https://imgur.com/uaRGset)
+![tokiembed](tokiembed.gif)
 
 ### how do i use it?
 
